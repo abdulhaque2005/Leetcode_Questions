@@ -31,4 +31,8 @@ Pratice of leetCode
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
