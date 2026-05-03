@@ -36,6 +36,7 @@ Pratice of leetCode
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0520-detect-capital) |
+| [1108-defanging-an-ip-address](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1108-defanging-an-ip-address) |
 ## Simulation
 |  |
 | ------- |
