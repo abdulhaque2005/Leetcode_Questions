@@ -11,6 +11,7 @@ Pratice of leetCode
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Math
 |  |
