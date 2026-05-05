@@ -46,6 +46,7 @@ Pratice of leetCode
 | [0171-excel-sheet-column-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
 | [0520-detect-capital](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0520-detect-capital) |
 | [1108-defanging-an-ip-address](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1108-defanging-an-ip-address) |
+| [2315-count-asterisks](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2315-count-asterisks) |
 ## Simulation
 |  |
 | ------- |
