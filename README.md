@@ -20,6 +20,7 @@ Pratice of leetCode
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2396-strictly-palindromic-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2396-strictly-palindromic-number) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -73,4 +74,8 @@ Pratice of leetCode
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
