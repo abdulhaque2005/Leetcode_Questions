@@ -29,6 +29,7 @@ Pratice of leetCode
 | [0326-power-of-three](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1492-the-kth-factor-of-n](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1492-the-kth-factor-of-n) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2396-strictly-palindromic-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2396-strictly-palindromic-number) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -104,4 +105,8 @@ Pratice of leetCode
 |  |
 | ------- |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
