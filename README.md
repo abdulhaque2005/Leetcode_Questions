@@ -17,6 +17,7 @@ Pratice of leetCode
 | [1929-concatenation-of-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2942-find-words-containing-character](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2942-find-words-containing-character) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Pratice of leetCode
 | [0520-detect-capital](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0520-detect-capital) |
 | [1108-defanging-an-ip-address](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1108-defanging-an-ip-address) |
 | [2315-count-asterisks](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2315-count-asterisks) |
+| [2942-find-words-containing-character](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2942-find-words-containing-character) |
 ## Simulation
 |  |
 | ------- |
