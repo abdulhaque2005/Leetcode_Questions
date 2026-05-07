@@ -29,6 +29,7 @@ Pratice of leetCode
 | [2139-minimum-moves-to-reach-target-score](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2396-strictly-palindromic-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2396-strictly-palindromic-number) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2651-calculate-delayed-arrival-time](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2651-calculate-delayed-arrival-time) |
 ## Binary Search
 |  |
 | ------- |
