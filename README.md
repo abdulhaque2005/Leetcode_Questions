@@ -26,6 +26,7 @@ Pratice of leetCode
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -75,6 +76,7 @@ Pratice of leetCode
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -115,5 +117,6 @@ Pratice of leetCode
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
