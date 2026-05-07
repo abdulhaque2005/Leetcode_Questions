@@ -6,6 +6,7 @@ Pratice of leetCode
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -71,6 +72,7 @@ Pratice of leetCode
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
