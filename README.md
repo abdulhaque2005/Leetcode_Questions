@@ -6,6 +6,7 @@ Pratice of leetCode
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0704-binary-search) |
@@ -46,6 +47,7 @@ Pratice of leetCode
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -69,6 +71,7 @@ Pratice of leetCode
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
