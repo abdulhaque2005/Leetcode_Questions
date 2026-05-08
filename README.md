@@ -14,6 +14,7 @@ Pratice of leetCode
 | [0349-intersection-of-two-arrays](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0922-sort-array-by-parity-ii) |
@@ -137,4 +138,8 @@ Pratice of leetCode
 | ------- |
 | [0258-add-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1492-the-kth-factor-of-n) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
