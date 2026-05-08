@@ -16,6 +16,7 @@ Pratice of leetCode
 | [0905-sort-array-by-parity](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0922-sort-array-by-parity-ii) |
 | [1046-last-stone-weight](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1046-last-stone-weight) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1470-shuffle-the-array) |
 | [1748-sum-of-unique-elements](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1748-sum-of-unique-elements) |
@@ -32,6 +33,7 @@ Pratice of leetCode
 | [0263-ugly-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1492-the-kth-factor-of-n) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1716-calculate-money-in-leetcode-bank) |
