@@ -90,11 +90,13 @@ Pratice of leetCode
 | [1108-defanging-an-ip-address](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1108-defanging-an-ip-address) |
 | [2315-count-asterisks](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2315-count-asterisks) |
 | [2942-find-words-containing-character](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2942-find-words-containing-character) |
+| [3174-clear-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
+| [3174-clear-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3174-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,4 +145,8 @@ Pratice of leetCode
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0724-find-pivot-index) |
+## Stack
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
