@@ -46,6 +46,7 @@ Pratice of leetCode
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1492-the-kth-factor-of-n) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2396-strictly-palindromic-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2396-strictly-palindromic-number) |
@@ -68,6 +69,7 @@ Pratice of leetCode
 | [0442-find-all-duplicates-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
@@ -85,6 +87,7 @@ Pratice of leetCode
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1748-sum-of-unique-elements) |
 ## String
 |  |
