@@ -9,6 +9,7 @@ Pratice of leetCode
 | [0011-container-with-most-water](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0217-contains-duplicate) |
@@ -74,6 +75,7 @@ Pratice of leetCode
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0217-contains-duplicate) |
@@ -113,6 +115,7 @@ Pratice of leetCode
 | ------- |
 | [0011-container-with-most-water](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0905-sort-array-by-parity) |
