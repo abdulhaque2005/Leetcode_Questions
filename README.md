@@ -16,6 +16,7 @@ Pratice of leetCode
 | [0349-intersection-of-two-arrays](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -165,4 +166,8 @@ Pratice of leetCode
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3174-clear-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
