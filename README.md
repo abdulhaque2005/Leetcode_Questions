@@ -35,6 +35,7 @@ Pratice of leetCode
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2239-find-closest-number-to-zero) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2678-number-of-senior-citizens](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2942-find-words-containing-character) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Math
@@ -103,6 +104,7 @@ Pratice of leetCode
 | [0709-to-lower-case](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1108-defanging-an-ip-address) |
 | [2315-count-asterisks](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2315-count-asterisks) |
+| [2678-number-of-senior-citizens](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2942-find-words-containing-character) |
 | [3174-clear-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3174-clear-digits) |
 ## Simulation
