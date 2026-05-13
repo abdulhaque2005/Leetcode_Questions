@@ -20,6 +20,7 @@ Pratice of leetCode
 | [0704-binary-search](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0922-sort-array-by-parity-ii) |
@@ -89,6 +90,7 @@ Pratice of leetCode
 | [0217-contains-duplicate](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
