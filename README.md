@@ -32,6 +32,7 @@ Pratice of leetCode
 | [1800-maximum-ascending-subarray-sum](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1991-find-the-middle-index-in-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2239-find-closest-number-to-zero) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -103,6 +104,7 @@ Pratice of leetCode
 | [0657-robot-return-to-origin](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1108-defanging-an-ip-address) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2315-count-asterisks](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2315-count-asterisks) |
 | [2678-number-of-senior-citizens](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2942-find-words-containing-character) |
@@ -113,6 +115,7 @@ Pratice of leetCode
 | [0258-add-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3174-clear-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3174-clear-digits) |
 ## Two Pointers
