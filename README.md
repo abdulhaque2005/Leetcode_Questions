@@ -6,6 +6,7 @@ Pratice of leetCode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0027-remove-element) |
@@ -76,6 +77,7 @@ Pratice of leetCode
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
