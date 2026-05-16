@@ -63,6 +63,7 @@ Pratice of leetCode
 | [2180-count-integers-with-even-digit-sum](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2396-strictly-palindromic-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2396-strictly-palindromic-number) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2651-calculate-delayed-arrival-time](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2651-calculate-delayed-arrival-time) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3492-maximum-containers-on-a-ship](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3492-maximum-containers-on-a-ship) |
