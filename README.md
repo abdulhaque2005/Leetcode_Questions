@@ -59,6 +59,7 @@ Pratice of leetCode
 | [1688-count-of-matches-in-tournament](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1837-sum-of-digits-in-base-k](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1837-sum-of-digits-in-base-k) |
 | [2119-a-number-after-a-double-reversal](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2180-count-integers-with-even-digit-sum) |
