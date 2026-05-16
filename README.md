@@ -53,6 +53,7 @@ Pratice of leetCode
 | [0326-power-of-three](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1492-the-kth-factor-of-n) |
 | [1688-count-of-matches-in-tournament](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1688-count-of-matches-in-tournament) |
@@ -175,6 +176,7 @@ Pratice of leetCode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0011-container-with-most-water) |
+| [1323-maximum-69-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1323-maximum-69-number) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Number Theory
 |  |
