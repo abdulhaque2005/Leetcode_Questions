@@ -13,6 +13,7 @@ Pratice of leetCode
 | [0033-search-in-rotated-sorted-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -206,4 +207,8 @@ Pratice of leetCode
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0832-flipping-an-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
