@@ -16,6 +16,7 @@ Pratice of leetCode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
@@ -51,6 +52,7 @@ Pratice of leetCode
 | [0171-excel-sheet-column-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -76,6 +78,7 @@ Pratice of leetCode
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -86,6 +89,7 @@ Pratice of leetCode
 | ------- |
 | [0001-two-sum](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -99,6 +103,7 @@ Pratice of leetCode
 | [0088-merge-sorted-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -177,6 +182,7 @@ Pratice of leetCode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Greedy
