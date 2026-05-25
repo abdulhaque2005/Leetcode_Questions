@@ -33,6 +33,7 @@ Pratice of leetCode
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1550-three-consecutive-odds) |
 | [1748-sum-of-unique-elements](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1748-sum-of-unique-elements) |
