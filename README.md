@@ -47,6 +47,7 @@ Pratice of leetCode
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2540-minimum-common-value) |
 | [2678-number-of-senior-citizens](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2678-number-of-senior-citizens) |
+| [2733-neither-minimum-nor-maximum](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2942-find-words-containing-character](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2942-find-words-containing-character) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Math
@@ -117,6 +118,7 @@ Pratice of leetCode
 | [0922-sort-array-by-parity-ii](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2733-neither-minimum-nor-maximum](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
