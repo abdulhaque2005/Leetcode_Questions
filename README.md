@@ -47,6 +47,7 @@ Pratice of leetCode
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2574-left-and-right-sum-differences](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2574-left-and-right-sum-differences) |
 | [2678-number-of-senior-citizens](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2678-number-of-senior-citizens) |
 | [2733-neither-minimum-nor-maximum](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2942-find-words-containing-character](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2942-find-words-containing-character) |
@@ -216,6 +217,7 @@ Pratice of leetCode
 | ------- |
 | [0724-find-pivot-index](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2574-left-and-right-sum-differences) |
 ## Stack
 |  |
 | ------- |
