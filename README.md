@@ -14,6 +14,7 @@ Pratice of leetCode
 | [0075-sort-colors](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0137-single-number-ii](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0217-contains-duplicate) |
@@ -198,6 +199,7 @@ Pratice of leetCode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
