@@ -57,6 +57,7 @@ Pratice of leetCode
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0009-palindrome-number) |
 | [0171-excel-sheet-column-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0263-ugly-number) |
