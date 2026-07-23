@@ -1,16 +1,14 @@
 class Solution {
 public:
     int averageValue(vector<int>& nums) {
-     int count =0; 
-     int sum =0;
-     int avg=0;
-     for(int num : nums){
-    if(num%2==0 && num%3==0){
-        count++;
-        sum +=num;
-    }
-     }   
-     if(count ==0)return 0;
-     return sum/count;
+        int count=0;
+        int sum=0;
+        for(int i=0; i<nums.size(); i++){
+            if(nums[i]%2==0 && nums[i]%3==0){
+                count++;
+                sum +=nums[i];
+            }
+        }
+        return (sum >0 && count>0) ? sum/count : sum;
     }
 };
