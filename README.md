@@ -29,6 +29,7 @@ Pratice of leetCode
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0832-flipping-an-image) |
+| [0896-monotonic-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0922-sort-array-by-parity-ii) |
 | [1046-last-stone-weight](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1046-last-stone-weight) |
