@@ -64,6 +64,7 @@ Pratice of leetCode
 | [0263-ugly-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0326-power-of-three) |
+| [1227-airplane-seat-assignment-probability](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1323-maximum-69-number) |
@@ -179,6 +180,7 @@ Pratice of leetCode
 ## Brainteaser
 |  |
 | ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1227-airplane-seat-assignment-probability) |
 | [2396-strictly-palindromic-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2396-strictly-palindromic-number) |
 ## Divide and Conquer
 |  |
@@ -239,4 +241,9 @@ Pratice of leetCode
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1227-airplane-seat-assignment-probability](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1227-airplane-seat-assignment-probability) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
