@@ -246,4 +246,8 @@ Pratice of leetCode
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1227-airplane-seat-assignment-probability) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
