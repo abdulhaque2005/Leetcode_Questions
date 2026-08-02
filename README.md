@@ -29,6 +29,7 @@ Pratice of leetCode
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0832-flipping-an-image) |
+| [0877-stone-game](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0922-sort-array-by-parity-ii) |
@@ -64,6 +65,7 @@ Pratice of leetCode
 | [0263-ugly-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0326-power-of-three) |
+| [0877-stone-game](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -241,6 +243,7 @@ Pratice of leetCode
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1227-airplane-seat-assignment-probability) |
 ## Probability and Statistics
 |  |
@@ -250,4 +253,8 @@ Pratice of leetCode
 |  |
 | ------- |
 | [0511-game-play-analysis-i](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0511-game-play-analysis-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
