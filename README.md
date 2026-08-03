@@ -201,6 +201,7 @@ Pratice of leetCode
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
@@ -258,4 +259,8 @@ Pratice of leetCode
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0877-stone-game) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
