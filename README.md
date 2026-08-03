@@ -253,6 +253,7 @@ Pratice of leetCode
 |  |
 | ------- |
 | [0511-game-play-analysis-i](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0511-game-play-analysis-i) |
+| [0610-triangle-judgement](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0610-triangle-judgement) |
 ## Game Theory
 |  |
 | ------- |
