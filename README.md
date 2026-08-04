@@ -264,4 +264,9 @@ Pratice of leetCode
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
+| [0707-design-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
