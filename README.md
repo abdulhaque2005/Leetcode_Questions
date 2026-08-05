@@ -172,6 +172,7 @@ Pratice of leetCode
 | [0027-remove-element](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0905-sort-array-by-parity) |
@@ -202,6 +203,7 @@ Pratice of leetCode
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
@@ -231,6 +233,7 @@ Pratice of leetCode
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
 | [3174-clear-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3174-clear-digits) |
 ## Sliding Window
 |  |
@@ -264,6 +267,7 @@ Pratice of leetCode
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0707-design-linked-list) |
 ## Design
 |  |
