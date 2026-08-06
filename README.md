@@ -85,6 +85,7 @@ Pratice of leetCode
 | [2549-count-distinct-numbers-on-board](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2651-calculate-delayed-arrival-time](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2651-calculate-delayed-arrival-time) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3492-maximum-containers-on-a-ship](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3492-maximum-containers-on-a-ship) |
 | [3536-maximum-product-of-two-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
@@ -274,4 +275,8 @@ Pratice of leetCode
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0707-design-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
