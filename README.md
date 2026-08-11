@@ -55,6 +55,7 @@ Pratice of leetCode
 | [2678-number-of-senior-citizens](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2678-number-of-senior-citizens) |
 | [2733-neither-minimum-nor-maximum](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2942-find-words-containing-character](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2942-find-words-containing-character) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Math
 |  |
@@ -114,6 +115,7 @@ Pratice of leetCode
 | [1748-sum-of-unique-elements](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1748-sum-of-unique-elements) |
 | [2540-minimum-common-value](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2549-count-distinct-numbers-on-board) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -273,6 +275,7 @@ Pratice of leetCode
 | [0206-reverse-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0707-design-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
 | ------- |
