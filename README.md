@@ -209,6 +209,7 @@ Pratice of leetCode
 | [0206-reverse-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0326-power-of-three) |
+| [2487-remove-nodes-from-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -238,6 +239,7 @@ Pratice of leetCode
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3174-clear-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3174-clear-digits) |
 ## Sliding Window
 |  |
@@ -275,6 +277,7 @@ Pratice of leetCode
 | [0206-reverse-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0707-design-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
@@ -284,4 +287,8 @@ Pratice of leetCode
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
