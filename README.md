@@ -276,6 +276,7 @@ Pratice of leetCode
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0707-design-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
