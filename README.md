@@ -42,6 +42,7 @@ Pratice of leetCode
 | [1550-three-consecutive-odds](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1550-three-consecutive-odds) |
 | [1748-sum-of-unique-elements](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1748-sum-of-unique-elements) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1929-concatenation-of-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -223,6 +224,7 @@ Pratice of leetCode
 | [0011-container-with-most-water](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0179-largest-number) |
 | [1323-maximum-69-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1323-maximum-69-number) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Number Theory
 |  |
