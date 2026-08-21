@@ -58,6 +58,7 @@ Pratice of leetCode
 | [2942-find-words-containing-character](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/2942-find-words-containing-character) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Pratice of leetCode
 | [3345-smallest-divisible-digit-product-i](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3492-maximum-containers-on-a-ship](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3492-maximum-containers-on-a-ship) |
 | [3536-maximum-product-of-two-digits](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Binary Search
 |  |
 | ------- |
