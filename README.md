@@ -11,6 +11,7 @@ Pratice of leetCode
 | [0011-container-with-most-water](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -97,6 +98,7 @@ Pratice of leetCode
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/abdulhaque2005/Leetcode_Questions/tree/master/0704-binary-search) |
